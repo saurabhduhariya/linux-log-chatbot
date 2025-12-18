@@ -1,0 +1,439 @@
+Dec 10 13:21:15 my-server WARN: High memory usage detected: 87%
+Dec 10 13:21:18 my-server INFO: Connection established from 192.168.1.216
+Dec 10 13:21:20 my-server INFO: User bob authenticated successfully.
+Dec 10 13:21:21 my-server ERROR: Database connection timeout. Retrying...
+Dec 10 13:21:24 my-server INFO: Connection established from 192.168.1.109
+Dec 10 13:21:27 my-server INFO: Connection established from 192.168.1.196
+Dec 10 13:21:28 my-server INFO: Connection established from 192.168.1.2
+Dec 10 13:21:29 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 200
+Dec 10 13:21:31 my-server INFO: Connection established from 192.168.1.150
+Dec 10 13:21:33 my-server INFO: Connection established from 192.168.1.68
+Dec 10 13:22:43 my-server WARN: High memory usage detected: 94%
+Dec 10 13:22:46 my-server ERROR: Database connection timeout. Retrying...
+Dec 10 13:22:50 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 460
+Dec 10 13:22:52 my-server ERROR: Database connection timeout. Retrying...
+Dec 10 13:22:54 my-server INFO: Connection established from 192.168.1.68
+Dec 10 13:22:57 my-server WARN: High memory usage detected: 95%
+Dec 10 13:24:07 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 10 13:24:10 my-server ERROR: Database connection timeout. Retrying...
+Dec 10 13:24:14 my-server ERROR: Database connection timeout. Retrying...
+Dec 10 13:24:15 my-server INFO: Connection established from 192.168.1.119
+Dec 15 16:28:12 my-server WARN: High memory usage detected: 89%
+Dec 15 16:28:13 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 157
+Dec 15 16:28:15 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:28:17 my-server INFO: Connection established from 192.168.1.104
+Dec 15 16:28:20 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:28:21 my-server WARN: High memory usage detected: 91%
+Dec 15 16:28:23 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 225
+Dec 15 16:28:26 my-server WARN: High memory usage detected: 91%
+Dec 15 16:28:29 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 121
+Dec 15 16:28:32 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:29:23 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:29:27 my-server INFO: User bob authenticated successfully.
+Dec 15 16:29:29 my-server INFO: Connection established from 192.168.1.207
+Dec 15 16:29:33 my-server INFO: Connection established from 192.168.1.186
+Dec 15 16:29:37 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 468
+Dec 15 16:29:40 my-server INFO: Connection established from 192.168.1.132
+Dec 15 16:29:43 my-server INFO: User system authenticated successfully.
+Dec 15 16:29:45 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:29:47 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:29:51 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:29:54 my-server INFO: Connection established from 192.168.1.252
+Dec 15 16:29:55 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 271
+Dec 15 16:29:58 my-server WARN: High memory usage detected: 86%
+Dec 15 16:29:59 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:30:01 my-server WARN: High memory usage detected: 92%
+Dec 15 16:30:04 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:30:07 my-server WARN: High memory usage detected: 93%
+Dec 15 16:30:10 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:30:13 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 370
+Dec 15 16:30:17 my-server WARN: High memory usage detected: 86%
+Dec 15 16:30:19 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:30:21 my-server INFO: Connection established from 192.168.1.79
+Dec 15 16:31:16 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:31:18 my-server INFO: Connection established from 192.168.1.55
+Dec 15 16:31:21 my-server INFO: User system authenticated successfully.
+Dec 15 16:31:24 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 66
+Dec 15 16:31:27 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:31:30 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:31:34 my-server INFO: User alice authenticated successfully.
+Dec 15 16:31:37 my-server INFO: User alice authenticated successfully.
+Dec 15 16:31:39 my-server INFO: Connection established from 192.168.1.242
+Dec 15 16:31:42 my-server WARN: High memory usage detected: 89%
+Dec 15 16:31:45 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 497
+Dec 15 16:31:47 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 235
+Dec 15 16:31:48 my-server WARN: High memory usage detected: 85%
+Dec 15 16:31:51 my-server INFO: User admin authenticated successfully.
+Dec 15 16:31:55 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:31:58 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 92
+Dec 15 16:31:59 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 433
+Dec 15 16:32:02 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:32:03 my-server INFO: Connection established from 192.168.1.185
+Dec 15 16:32:06 my-server INFO: User bob authenticated successfully.
+Dec 15 16:32:07 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:32:09 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:32:12 my-server INFO: User system authenticated successfully.
+Dec 15 16:32:15 my-server INFO: Connection established from 192.168.1.163
+Dec 15 16:32:16 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 482
+Dec 15 16:32:18 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:32:20 my-server WARN: High memory usage detected: 93%
+Dec 15 16:32:23 my-server INFO: User bob authenticated successfully.
+Dec 15 16:32:25 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:32:27 my-server INFO: User bob authenticated successfully.
+Dec 15 16:32:28 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:32:29 my-server INFO: Connection established from 192.168.1.2
+Dec 15 16:32:32 my-server WARN: High memory usage detected: 84%
+Dec 15 16:32:36 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:32:38 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 49
+Dec 15 16:32:39 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 338
+Dec 15 16:32:42 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 263
+Dec 15 16:32:46 my-server WARN: High memory usage detected: 82%
+Dec 15 16:32:48 my-server WARN: High memory usage detected: 81%
+Dec 15 16:32:51 my-server INFO: Connection established from 192.168.1.153
+Dec 15 16:32:52 my-server INFO: User bob authenticated successfully.
+Dec 15 16:32:55 my-server INFO: User alice authenticated successfully.
+Dec 15 16:32:57 my-server INFO: Connection established from 192.168.1.87
+Dec 15 16:32:59 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:33:01 my-server INFO: User alice authenticated successfully.
+Dec 15 16:33:03 my-server WARN: High memory usage detected: 83%
+Dec 15 16:33:06 my-server WARN: High memory usage detected: 84%
+Dec 15 16:33:10 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:33:14 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:33:17 my-server WARN: High memory usage detected: 94%
+Dec 15 16:33:20 my-server WARN: High memory usage detected: 92%
+Dec 15 16:33:23 my-server INFO: Connection established from 192.168.1.115
+Dec 15 16:33:26 my-server INFO: User bob authenticated successfully.
+Dec 15 16:33:29 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 237
+Dec 15 16:33:31 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:33:34 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 45
+Dec 15 16:33:37 my-server WARN: High memory usage detected: 90%
+Dec 15 16:33:39 my-server WARN: High memory usage detected: 91%
+Dec 15 16:33:40 my-server INFO: Connection established from 192.168.1.253
+Dec 15 16:33:42 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 466
+Dec 15 16:33:45 my-server INFO: Connection established from 192.168.1.153
+Dec 15 16:33:49 my-server INFO: User bob authenticated successfully.
+Dec 15 16:33:52 my-server INFO: User admin authenticated successfully.
+Dec 15 16:33:55 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:33:58 my-server INFO: User alice authenticated successfully.
+Dec 15 16:34:02 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:34:04 my-server INFO: Connection established from 192.168.1.220
+Dec 15 16:34:06 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:34:09 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:34:13 my-server INFO: User admin authenticated successfully.
+Dec 15 16:34:16 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:34:19 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 98
+Dec 15 16:34:21 my-server WARN: High memory usage detected: 96%
+Dec 15 16:34:24 my-server INFO: User admin authenticated successfully.
+Dec 15 16:34:27 my-server INFO: Connection established from 192.168.1.255
+Dec 15 16:34:28 my-server INFO: User alice authenticated successfully.
+Dec 15 16:34:30 my-server INFO: User admin authenticated successfully.
+Dec 15 16:34:33 my-server INFO: Connection established from 192.168.1.158
+Dec 15 16:34:35 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 308
+Dec 15 16:34:37 my-server INFO: User bob authenticated successfully.
+Dec 15 16:34:40 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:34:43 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:34:46 my-server INFO: User bob authenticated successfully.
+Dec 15 16:34:48 my-server INFO: Connection established from 192.168.1.192
+Dec 15 16:34:51 my-server WARN: High memory usage detected: 88%
+Dec 15 16:34:54 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:34:56 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:35:00 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:35:02 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:35:04 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:35:07 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 169
+Dec 15 16:35:10 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:35:12 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:35:15 my-server INFO: Connection established from 192.168.1.146
+Dec 15 16:35:18 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 84
+Dec 15 16:35:21 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 241
+Dec 15 16:35:25 my-server INFO: Connection established from 192.168.1.73
+Dec 15 16:35:29 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:35:30 my-server INFO: Connection established from 192.168.1.241
+Dec 15 16:35:33 my-server INFO: User bob authenticated successfully.
+Dec 15 16:35:37 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 13
+Dec 15 16:35:38 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:35:39 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 350
+Dec 15 16:35:42 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:35:43 my-server INFO: Connection established from 192.168.1.119
+Dec 15 16:35:45 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:35:48 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:35:51 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 116
+Dec 15 16:35:52 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:35:55 my-server INFO: User admin authenticated successfully.
+Dec 15 16:35:56 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:35:59 my-server INFO: Connection established from 192.168.1.229
+Dec 15 16:36:03 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:36:05 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:36:07 my-server WARN: High memory usage detected: 92%
+Dec 15 16:36:11 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:36:12 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 146
+Dec 15 16:36:13 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:36:15 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:36:18 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:36:21 my-server INFO: Connection established from 192.168.1.30
+Dec 15 16:36:23 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 400
+Dec 15 16:36:27 my-server INFO: User admin authenticated successfully.
+Dec 15 16:36:31 my-server INFO: Connection established from 192.168.1.190
+Dec 15 16:36:35 my-server INFO: User admin authenticated successfully.
+Dec 15 16:36:36 my-server INFO: Connection established from 192.168.1.182
+Dec 15 16:36:39 my-server WARN: High memory usage detected: 91%
+Dec 15 16:36:43 my-server WARN: High memory usage detected: 89%
+Dec 15 16:36:46 my-server INFO: Connection established from 192.168.1.245
+Dec 15 16:36:48 my-server WARN: High memory usage detected: 83%
+Dec 15 16:36:51 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:36:53 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:36:56 my-server WARN: High memory usage detected: 98%
+Dec 15 16:36:57 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:37:00 my-server WARN: High memory usage detected: 84%
+Dec 15 16:37:02 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:37:04 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:37:07 my-server INFO: Connection established from 192.168.1.52
+Dec 15 16:37:09 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 461
+Dec 15 16:37:11 my-server WARN: High memory usage detected: 94%
+Dec 15 16:37:13 my-server INFO: User system authenticated successfully.
+Dec 15 16:37:16 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:37:19 my-server INFO: Connection established from 192.168.1.76
+Dec 15 16:37:21 my-server WARN: High memory usage detected: 93%
+Dec 15 16:37:25 my-server INFO: User system authenticated successfully.
+Dec 15 16:37:28 my-server INFO: Connection established from 192.168.1.216
+Dec 15 16:37:31 my-server INFO: User system authenticated successfully.
+Dec 15 16:37:33 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:37:34 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:37:36 my-server INFO: User admin authenticated successfully.
+Dec 15 16:37:40 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:37:43 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:37:47 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 221
+Dec 15 16:37:49 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:37:51 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:37:55 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 346
+Dec 15 16:37:57 my-server WARN: High memory usage detected: 95%
+Dec 15 16:38:01 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 113
+Dec 15 16:38:02 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 329
+Dec 15 16:38:05 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 473
+Dec 15 16:38:09 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:38:12 my-server INFO: User system authenticated successfully.
+Dec 15 16:38:14 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 496
+Dec 15 16:38:16 my-server INFO: Connection established from 192.168.1.239
+Dec 15 16:38:18 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:38:19 my-server WARN: High memory usage detected: 85%
+Dec 15 16:38:23 my-server INFO: User bob authenticated successfully.
+Dec 15 16:38:24 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 411
+Dec 15 16:38:28 my-server INFO: User bob authenticated successfully.
+Dec 15 16:38:31 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 48
+Dec 15 16:38:33 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:38:35 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:38:38 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:38:42 my-server INFO: Connection established from 192.168.1.45
+Dec 15 16:38:45 my-server WARN: High memory usage detected: 81%
+Dec 15 16:38:47 my-server WARN: High memory usage detected: 98%
+Dec 15 16:38:48 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:38:51 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:38:55 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:38:59 my-server INFO: User admin authenticated successfully.
+Dec 15 16:39:02 my-server INFO: Connection established from 192.168.1.116
+Dec 15 16:39:05 my-server INFO: User system authenticated successfully.
+Dec 15 16:39:09 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:39:11 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 431
+Dec 15 16:39:14 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 113
+Dec 15 16:39:18 my-server INFO: User admin authenticated successfully.
+Dec 15 16:39:21 my-server WARN: High memory usage detected: 90%
+Dec 15 16:39:22 my-server WARN: High memory usage detected: 99%
+Dec 15 16:39:25 my-server INFO: User bob authenticated successfully.
+Dec 15 16:39:29 my-server WARN: High memory usage detected: 90%
+Dec 15 16:39:32 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 15
+Dec 15 16:39:34 my-server INFO: User system authenticated successfully.
+Dec 15 16:39:36 my-server INFO: User system authenticated successfully.
+Dec 15 16:39:39 my-server INFO: Connection established from 192.168.1.118
+Dec 15 16:39:40 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 172
+Dec 15 16:39:42 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:39:44 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:39:46 my-server INFO: Connection established from 192.168.1.115
+Dec 15 16:39:48 my-server WARN: High memory usage detected: 82%
+Dec 15 16:39:50 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:39:51 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 225
+Dec 15 16:39:55 my-server INFO: User alice authenticated successfully.
+Dec 15 16:39:58 my-server INFO: User admin authenticated successfully.
+Dec 15 16:40:01 my-server INFO: User alice authenticated successfully.
+Dec 15 16:40:04 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:40:06 my-server WARN: High memory usage detected: 96%
+Dec 15 16:40:10 my-server WARN: High memory usage detected: 84%
+Dec 15 16:40:12 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:40:14 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:40:15 my-server WARN: High memory usage detected: 93%
+Dec 15 16:40:17 my-server INFO: User bob authenticated successfully.
+Dec 15 16:40:21 my-server INFO: Connection established from 192.168.1.146
+Dec 15 16:40:23 my-server INFO: User admin authenticated successfully.
+Dec 15 16:40:27 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 16
+Dec 15 16:40:30 my-server WARN: High memory usage detected: 92%
+Dec 15 16:40:33 my-server INFO: User alice authenticated successfully.
+Dec 15 16:40:36 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 453
+Dec 15 16:40:38 my-server INFO: Connection established from 192.168.1.139
+Dec 15 16:40:42 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:40:44 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 445
+Dec 15 16:40:46 my-server INFO: Connection established from 192.168.1.174
+Dec 15 16:40:50 my-server INFO: User alice authenticated successfully.
+Dec 15 16:40:53 my-server WARN: High memory usage detected: 92%
+Dec 15 16:40:56 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:40:59 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:41:01 my-server WARN: High memory usage detected: 93%
+Dec 15 16:41:04 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:41:05 my-server INFO: User alice authenticated successfully.
+Dec 15 16:41:08 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:41:11 my-server INFO: Connection established from 192.168.1.144
+Dec 15 16:41:12 my-server INFO: Connection established from 192.168.1.251
+Dec 15 16:41:13 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:41:14 my-server INFO: Connection established from 192.168.1.36
+Dec 15 16:41:18 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 95
+Dec 15 16:41:20 my-server INFO: Connection established from 192.168.1.223
+Dec 15 16:41:24 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:41:25 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 202
+Dec 15 16:41:28 my-server WARN: High memory usage detected: 80%
+Dec 15 16:41:30 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 372
+Dec 15 16:41:33 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 233
+Dec 15 16:41:35 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:41:37 my-server WARN: High memory usage detected: 93%
+Dec 15 16:41:40 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:41:42 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:41:46 my-server WARN: High memory usage detected: 80%
+Dec 15 16:41:48 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:41:50 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:41:53 my-server WARN: High memory usage detected: 81%
+Dec 15 16:41:56 my-server INFO: Connection established from 192.168.1.252
+Dec 15 16:41:57 my-server INFO: Connection established from 192.168.1.33
+Dec 15 16:41:59 my-server INFO: Connection established from 192.168.1.225
+Dec 15 16:42:01 my-server WARN: High memory usage detected: 83%
+Dec 15 16:42:03 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:42:06 my-server INFO: User bob authenticated successfully.
+Dec 15 16:42:09 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 492
+Dec 15 16:42:13 my-server INFO: User bob authenticated successfully.
+Dec 15 16:42:15 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:42:17 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 261
+Dec 15 16:42:19 my-server INFO: User alice authenticated successfully.
+Dec 15 16:42:20 my-server INFO: User system authenticated successfully.
+Dec 15 16:42:22 my-server WARN: High memory usage detected: 91%
+Dec 15 16:42:24 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:42:25 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 250
+Dec 15 16:42:29 my-server INFO: User alice authenticated successfully.
+Dec 15 16:42:32 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:42:35 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:42:38 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:42:40 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:42:41 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 372
+Dec 15 16:42:45 my-server INFO: User system authenticated successfully.
+Dec 15 16:42:48 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 355
+Dec 15 16:42:49 my-server INFO: User admin authenticated successfully.
+Dec 15 16:42:51 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:42:53 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:42:57 my-server WARN: High memory usage detected: 99%
+Dec 15 16:43:00 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:43:03 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:43:06 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:43:09 my-server WARN: High memory usage detected: 97%
+Dec 15 16:43:10 my-server WARN: High memory usage detected: 89%
+Dec 15 16:43:11 my-server INFO: Connection established from 192.168.1.162
+Dec 15 16:43:14 my-server WARN: High memory usage detected: 90%
+Dec 15 16:43:17 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:43:19 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:43:20 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 79
+Dec 15 16:43:22 my-server WARN: High memory usage detected: 89%
+Dec 15 16:43:24 my-server INFO: User bob authenticated successfully.
+Dec 15 16:43:28 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:43:30 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:43:31 my-server WARN: High memory usage detected: 91%
+Dec 15 16:43:34 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:43:37 my-server INFO: User system authenticated successfully.
+Dec 15 16:43:38 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:43:41 my-server WARN: High memory usage detected: 85%
+Dec 15 16:43:45 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:43:48 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:43:51 my-server WARN: High memory usage detected: 90%
+Dec 15 16:43:53 my-server INFO: Connection established from 192.168.1.215
+Dec 15 16:43:55 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:43:56 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:43:58 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:44:00 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:44:04 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 481
+Dec 15 16:44:05 my-server INFO: User system authenticated successfully.
+Dec 15 16:44:09 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 427
+Dec 15 16:44:11 my-server INFO: Connection established from 192.168.1.15
+Dec 15 16:44:12 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:44:16 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 179
+Dec 15 16:44:20 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 36
+Dec 15 16:44:23 my-server INFO: Connection established from 192.168.1.224
+Dec 15 16:44:26 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 61
+Dec 15 16:44:30 my-server INFO: User admin authenticated successfully.
+Dec 15 16:44:33 my-server INFO: Connection established from 192.168.1.219
+Dec 15 16:44:35 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:44:38 my-server INFO: Connection established from 192.168.1.163
+Dec 15 16:44:42 my-server INFO: Connection established from 192.168.1.72
+Dec 15 16:44:46 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:44:47 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:44:51 my-server WARN: High memory usage detected: 92%
+Dec 15 16:44:53 my-server INFO: Connection established from 192.168.1.165
+Dec 15 16:44:56 my-server WARN: High memory usage detected: 99%
+Dec 15 16:44:58 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 421
+Dec 15 16:45:01 my-server INFO: Connection established from 192.168.1.69
+Dec 15 16:45:04 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:45:05 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:45:08 my-server WARN: High memory usage detected: 96%
+Dec 15 16:45:11 my-server INFO: User alice authenticated successfully.
+Dec 15 16:45:12 my-server INFO: Connection established from 192.168.1.213
+Dec 15 16:45:15 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:45:17 my-server INFO: Connection established from 192.168.1.253
+Dec 15 16:45:20 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:45:24 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 472
+Dec 15 16:45:27 my-server INFO: User system authenticated successfully.
+Dec 15 16:45:31 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:45:34 my-server WARN: High memory usage detected: 95%
+Dec 15 16:45:37 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:45:39 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:45:41 my-server INFO: User alice authenticated successfully.
+Dec 15 16:45:42 my-server INFO: User bob authenticated successfully.
+Dec 15 16:45:44 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:45:46 my-server INFO: Connection established from 192.168.1.164
+Dec 15 16:45:48 my-server INFO: Connection established from 192.168.1.198
+Dec 15 16:45:51 my-server WARN: High memory usage detected: 88%
+Dec 15 16:45:52 my-server INFO: Connection established from 192.168.1.132
+Dec 15 16:45:55 my-server INFO: User admin authenticated successfully.
+Dec 15 16:45:56 my-server WARN: High memory usage detected: 99%
+Dec 15 16:45:58 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:46:01 my-server WARN: High memory usage detected: 94%
+Dec 15 16:46:03 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:46:05 my-server INFO: Connection established from 192.168.1.44
+Dec 15 16:46:06 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 470
+Dec 15 16:46:10 my-server INFO: Connection established from 192.168.1.236
+Dec 15 16:46:11 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:46:15 my-server INFO: Connection established from 192.168.1.116
+Dec 15 16:46:17 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:46:21 my-server WARN: High memory usage detected: 81%
+Dec 15 16:46:24 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:46:27 my-server WARN: High memory usage detected: 84%
+Dec 15 16:46:28 my-server INFO: User admin authenticated successfully.
+Dec 15 16:46:30 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:46:33 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 212
+Dec 15 16:46:36 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 90
+Dec 15 16:46:40 my-server INFO: Connection established from 192.168.1.83
+Dec 15 16:46:42 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 84
+Dec 15 16:46:43 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:46:47 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:46:48 my-server WARN: High memory usage detected: 81%
+Dec 15 16:46:52 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:46:54 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:46:56 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:47:00 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 220
+Dec 15 16:47:03 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:47:05 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:47:06 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:47:08 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:47:10 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 483
+Dec 15 16:47:12 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 370
+Dec 15 16:47:13 my-server WARN: High memory usage detected: 93%
+Dec 15 16:47:15 my-server INFO: User system authenticated successfully.
+Dec 15 16:47:17 my-server ERROR: Database connection timeout. Retrying...
+Dec 15 16:47:20 my-server CRITICAL: SERVICE CRASH: NullPointerException in module auth.py line 392
+Dec 15 16:47:22 my-server WARN: High memory usage detected: 97%
+Dec 15 16:47:23 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:47:27 my-server WARN: High memory usage detected: 83%
+Dec 15 16:47:29 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:47:32 my-server ERROR: Payment gateway 502 Bad Gateway.
+Dec 15 16:47:35 my-server ERROR: Payment gateway 502 Bad Gateway.
